@@ -1,0 +1,11 @@
+{
+    "keyAliases": {
+        "DOWN": "40",
+        "UP": "38",
+        "RIGHT": "39",
+        "LEFT": "37"
+    },
+    "buttonAliases": {
+        "DPAD_RIGHT": "14"
+    }
+}
